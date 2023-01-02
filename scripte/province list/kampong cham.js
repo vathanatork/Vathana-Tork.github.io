@@ -1,0 +1,78 @@
+const provincesDescription =[
+    {
+        provinceName:"Kompong Cham",
+        description:"Kampong Cham is one of the most highly-populated provinces in Cambodia and most likely the province with the most fertile land as well. The soil is mostly red in colour. Tobacco, soya-beans, rubber and other tropical produce are grown and exported from here.The Kizona, the longest bridge built across the Mekong River, connects the country's northeastern regions to the city. Kampong Cham also has its fair share of captivating 12th Century temples. The Nokor Ba Chey, the Han Chey and the Phnom Pros-Phnom Srei are all worth a visit.",
+    },
+]
+
+const blogCardItem = [
+
+    {
+        id:1,
+        cardBlog:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/Prey Nor Kor Knong-Krao Temple.jpg",
+        cardDetail1:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/pic1.jpg",
+        cardDetail2:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/pic2.jpg",
+        cardDetail3:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/pic3.jpg",
+        cardDetail4:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/pic4.jpg",
+        cardDetail5:"/image/kampong cham/Prey Nor Kor Knong-Krao Temple/pic5.jpg",
+        Title:"Prey Nor Kor Knong-Krao Temple",
+        map:"https://www.google.com/search?q=map+from+phnom+penh+to+Prey+Nor+Kor&sxsrf=ALiCzsZi-d8F5fh-G14zRtnlYyMR4ByRwg%3A1671551054991&ei=TtihY4SVPJzB3LUPhMq2-AY&ved=0ahUKEwiE9Oz2xIj8AhWcILcAHQSlDW8Q4dUDCA8&uact=5&oq=map+from+phnom+penh+to+Prey+Nor+Kor&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCjIHCCEQoAEQCjIHCCEQoAEQCjIHCCEQoAEQCjIHCCEQoAEQCjoICAAQogQQsAM6BAgjECc6BggAEBYQHjoFCAAQhgNKBAhBGAFKBAhGGABQqwhY3RVg0BxoAXAAeACAAYwBiAHMAZIBAzEuMZgBAKABAaABAsgBAsABAQ&sclient=gws-wiz-serp#",
+        description1:"Prey Nor Kor Knong-Krao Temple is a favorite haunt among tourists in Kampong Cham. The temple is located in the southeastern part of Kampong Cham, and it reflects the culture and traditions of Cambodia. You can easily reach Prey Nor Kor Knong-Krao Temple, Kampong Cham via National Road no. 7.",
+        description2:"The Prey Nor Kor Knong-Krao Temple, Kampong Cham spread over an area of 2500 square meters and is made up of the Tum Nup or Kam Pheng Poat Chum Vinh, Koh An Det or Kor Prak, Preay Theat Pond, Preah Theat Temple and the Thum Temple. The Tum Nup or Kam Pheng Poat Chum Vinh is placed strategically around the city of Prey Nor Kor Knong-Krao. This consists of a border made up of bamboo which makes it easily accessible. The Sras Toem or the Koh An Det is situated at the northern part of the village and is about 30 meters in length and 20 meters in width. The Thum Temple which is situated on the high hill of the Khoeun includes 3 temples made of solid brick. The Preah Theat Temple placed at the eastern part of Thum temple and consists of 6 temples that were damaged by war.",
+    },
+    {
+        id:2,
+        cardBlog:"/image/kampong cham/King Residence/pic1.jpg",
+        cardDetail1:"/image/kampong cham/King Residence/pic1.jpg",
+        cardDetail2:"/image/kampong cham/King Residence/pic2.jpg",
+        cardDetail3:"/image/kampong cham/King Residence/pic3.jpg",
+        cardDetail4:"/image/kampong cham/King Residence/pic4.jpg",
+        cardDetail5:"/image/kampong cham/King Residence/pic5.jpg",
+        Title:"King’s Residence",
+        map:"https://www.google.com/search?q=map+from+phnom+penh+to+King%E2%80%99s+Residence&sxsrf=ALiCzsbgLd3YDIqUttdKdLDDP_4YMTpTuA%3A1671551542146&ei=NtqhY7jBCLOl3LUPtd2L0AE&ved=0ahUKEwi4tJLfxoj8AhWzErcAHbXuAhoQ4dUDCA8&uact=5&oq=map+from+phnom+penh+to+King%E2%80%99s+Residence&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgAToHCCMQsAMQJzoECCMQJzoGCAAQFhAeOgUIABCGA0oECEEYAUoECEYYAFDYBFj7CGCYDWgBcAB4AIABaIgBrQGSAQMxLjGYAQCgAQGgAQLIAQLAAQE&sclient=gws-wiz-serp#",
+        description1:"The King’s Residence in Kampong Cham is known as the dwelling abode of the monarchs who ruled Cambodia for a long time. Kampong Cham has been under monarchical rule for a long time and the complex of the King’s Residence has been deserted for awhile. The complex consists of an outside building which was used by the local people so that they can come and meet the king. The premises of King’s Residence, include a beautiful fountain, various chambers, and more.",
+        description2:"",
+        howTogo:"",
+    },
+    {
+        id:3,
+        cardBlog:"/image/kampong cham/Preah Theat Teuk Chha/Preah Theat Teuk Chha.png",
+        cardDetail1:"/image/kampong cham/Preah Theat Teuk Chha/pic1.jpg",
+        cardDetail2:"/image/kampong cham/Preah Theat Teuk Chha/pic2.jpg",
+        cardDetail3:"/image/kampong cham/Preah Theat Teuk Chha/pic3.jpg",
+        cardDetail4:"/image/kampong cham/Preah Theat Teuk Chha/pic4.jpg",
+        cardDetail5:"/image/kampong cham/Preah Theat Teuk Chha/pic5.jpg",
+        
+        Title:"Preah Theat Teuk Chha",
+        map:"https://www.google.com/search?q=map+from+phnom+penh+to+Preah+Theat+Teuk+Chha&sxsrf=ALiCzsa3oiyxEKfkBzBVlB5olScX_NrCjQ%3A1671551593405&ei=adqhY6qsGMmG3LUP1-2C6Ac&ved=0ahUKEwjqhMv3xoj8AhVJA7cAHde2AH0Q4dUDCA8&uact=5&oq=map+from+phnom+penh+to+Preah+Theat+Teuk+Chha&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQ6CggAEEcQ1gQQsAM6BAgjECc6BggAEBYQHjoFCAAQhgNKBAhBGABKBAhGGABQigVYgAxgiBBoAXABeACAAYcBiAHcAZIBAzEuMZgBAKABAaABAsgBCMABAQ&sclient=gws-wiz-serp#",
+        description1:"The Wat Phreah Theat Thmor Da Temple is an ancient site in Kampong Cham. Global travelers love to visit the Wat Phreah Theat Thmor Da Temple as it showcases the rich cultural traditions of a country which houses the World Heritage Sites as declared by UNESCO. The travelers can come across the Wat Phreah Theat Thmor Da Temple at the southeastern region of the province of Kampong Cham in the Preah Theat Thmor Da village.",
+        description2:"Phnom Han Chey, also known as 'Chey Kiri Mountain', is located in the eastern part of Kampong Cham province. Phnom Han Chey boasts a tranquil scenic village, a pagoda, and an ancient temple.",
+    },
+    {
+        id:4,
+        cardBlog:"/image/blog_kompot/Phnom bokor/Bokor-Mountain-1.jpg",
+        cardDetail1:"/image/blog_kompot/Phnom bokor/bokor-casino-Thansur-Bokor-Resort-Highland-Resort.jpg",
+        cardDetail2:"/image/blog_kompot/Phnom bokor/bokor-casino-Thansur-Bokor-Resort-Highland-Resort.jpg",
+        cardDetail3:"/image/blog_kompot/Phnom bokor/Le-Bokor-Palace-bokor-plateau.jpg",
+        cardDetail4:"/image/blog_kompot/Phnom bokor/bokor-casino-Thansur-Bokor-Resort-Highland-Resort.jpg",
+        cardDetail5:"/image/blog_kompot/Phnom bokor/bokor-casino-Thansur-Bokor-Resort-Highland-Resort.jpg",
+        Title:"Phnom Han Chey",
+        map:"https://www.google.com/search?q=map+from+phnom+penh+to+Phnom+Han+Chey&sxsrf=ALiCzsYx5AWvNbxd4T-yAplPKGK-mQyuOA%3A1671551712793&ei=4NqhY-L_L4GfmgfvibH4DA&ved=0ahUKEwji78Gwx4j8AhWBj-YKHe9EDM8Q4dUDCA8&uact=5&oq=map+from+phnom+penh+to+Phnom+Han+Chey&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCjoKCAAQRxDWBBCwAzoECCMQJzoGCAAQFhAeOgUIABCGA0oECEEYAEoECEYYAFDxA1iqC2DxEGgBcAF4AIABlgGIAfMBkgEDMS4xmAEAoAEBoAECyAECwAEB&sclient=gws-wiz-serp#",
+        description1:"Phnom Han Chey, also known as Chey Kiri Mountain is located in the eastern part of Kampong Cham province. Phnom Han Chey boasts a tranquil scenic village, a pagoda, and an ancient temple.",
+        howTogo:"",
+    },
+    {
+        id:5,
+        cardBlog:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/jl1.png",
+        cardDetail2:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/pic2.jpg",
+        cardDetail3:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/pic3.jpg",
+        cardDetail4:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/pic4.jpg",
+        cardDetail5:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/pic5.jpg",
+        cardDetail1:"/image/kompong cham/Prey Nor Kor Knong-Krao Temple/pic1.jpg",
+        Title:"Banteay Prey Nokor",
+        map:"https://www.google.com/search?q=map+from+phnom+penh+to+Banteay+Prey+Nokor&sxsrf=ALiCzsZLySmRH72hGWkOe-2pVQthVusWoQ%3A1671551759272&ei=D9uhY4ugENP2z7sPyf-rmA8&ved=0ahUKEwjL49bGx4j8AhVT-3MBHcn_CvMQ4dUDCA8&uact=5&oq=map+from+phnom+penh+to+Banteay+Prey+Nokor&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOgoIABBHENYEELADOgQIIxAnOgYIABAWEB46BQgAEIYDSgQIQRgASgQIRhgAUL8GWOATYLwgaAFwAXgAgAGNAYgBsQKSAQMyLjGYAQCgAQGgAQLIAQLAAQE&sclient=gws-wiz-serp#",
+        description1:"Banteay Prey Nokor, commonly called the “Historical Site of Luong Preah Sdech Korn,” is located in northern Phnom Penh, in Banteay Prey Nokor Village, Daun Tei commune, Kampong Cham Province.",
+        description2:"Banteay Prey Nokor is a former capital of the pre-Angkor period. It was re-chosen as a capital city in the 16th century during the reign of Luong Preah Sdech Korn ( also named King Preah Srey Chetha).",// howTogo:"7 km away from the mountain, sits a swimming spot at Popork Vil Waterfall. Tourists can swim and bathe here for pleasure.",
+    },
+    
+]

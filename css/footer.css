@@ -1,0 +1,98 @@
+/* ------------footer------------ */
+#home__footer{
+    padding-top: 3rem;
+    padding-left: calc(4rem + 5.333vw);
+    padding-right: calc(4rem + 5.333vw);
+    padding-bottom: 3rem;
+    background-color: var(--color--white);
+}
+.home__footer-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.home__footer-wrap div p a{
+    font-weight: var(--fw--400);
+    font-size: var(--f16--);
+}
+/* ------left----- */
+.home__footer-wrap-left{
+    padding-top: 2rem;
+}
+.home__footer-left-logo{
+    width: 14.5rem;
+}
+.home__footer-left-logo img{
+    width: 100%;
+    object-fit: cover;
+}
+.home__footer-left-text-wrap{
+    padding-top: 1rem;
+    display: flex;
+    gap:1.5rem;
+    flex-direction: column;
+    padding-left: 1rem;
+}
+/* ------mid----- */
+.home__footer-wrap-mid{
+    padding-top: 3.5rem;
+    display: flex;
+    gap:1.5rem;
+    flex-direction: column;
+}
+.home__footer-mid-title{
+    font-weight: var(--fw--600) !important;
+}
+.class__footer-mid-text{
+    max-width: 38rem;
+}
+
+/* --------right------- */
+.home__footer-right-title{
+    font-weight: var(--fw--600) !important;
+}
+.home__footer-wrap-right{
+    padding-top: 3.5rem;
+    display: flex;
+    gap:1.5rem;
+    flex-direction: column;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color:var(--color--black);
+    font-size: var(--f27--);
+}
+/* --------------1000px--------------- */
+
+@media (max-width:900px) {
+    .home__footer-wrap{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap:calc(.5rem + 0.666vw) ;
+    }
+
+    /* -----mid--------- */
+    .home__footer-wrap-mid{
+        padding-top: calc(.5rem + 0.666vw);
+        gap: 0;
+    }
+    .class__footer-mid-text{
+        max-width: 80rem;
+    }
+    /* -----left-------- */
+
+    .home__footer-wrap-left{
+        align-items: center;
+    }
+
+    .home__footer-left-text-wrap{   
+        flex-direction: row;
+        padding-left: 0;
+    }
+    /* ------right----- */
+    .home__footer-wrap-right{
+        padding-top: calc(.5rem + 0.666vw);
+    }
+}

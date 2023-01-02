@@ -1,0 +1,70 @@
+
+/* ---------------global declare-------------- */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+}
+
+/* --------------root----------------------- */
+:root{
+    /* -------font size-------- */
+    --f16--:calc(1.4rem + 0.266vw);
+    --f32--:calc(2.2rem + 0.666vw);
+    --f27--:calc(1.7rem + 0.666vw);
+    --f14--:calc(1.4rem );
+
+    /* -------font weight */
+    --fw--500:500;
+    --fw--400:400;
+    --fw--300:300;
+    --fw--600:600;
+    --fw--700:700;
+
+    /* -------color------------ */
+    --color--black:#000000;
+    --color--white:#ffffff;
+    --color--dack--blue:#065482;
+    --color--blue:#009EF7;
+    --color--green:#004F32;
+    --color--light--grey:#A1A5B7;
+    --color--grey:#7E8299;
+    --color--body:#F4F4F4;
+    --color--red:red;
+    --color--orange:#A3572B;
+    --color--dack--gallary--button:#03324E;
+    --color--gallary--button:#F8B459;
+    --color--brown:#FFF0C9;
+
+    /* -------width------------ */
+    --w270--:27rem;
+    --w260--:26rem;
+    /* -------padding-------- */
+    --padding--section--:calc(1rem + 7.33vw);
+
+}
+
+body{
+    background-color: var(--color--body);
+}
+/* --------------modify tag------------ */
+h1{
+    font-size: var(--f32--);
+}
+
+h2{
+    font-size: var(--f27--);
+}
+
+p{
+    font-size: var(--f16--);
+}
+
+
+
+
+
+
