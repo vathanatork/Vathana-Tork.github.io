@@ -24,9 +24,7 @@ h2{ font-size: 1.6rem; color: #d33631e6;}
     padding-bottom: 10rem;
 }
 
-html{
-  overflow-x: hidden;
-}
+
 .abouts__hero-title{
     text-align: center;
     -webkit-animation: tracking-in-expand 01s cubic-bezier(0.215, 0.610, 0.355, 1.000) .5s both;
